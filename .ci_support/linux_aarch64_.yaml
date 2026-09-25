@@ -15,4 +15,4 @@ docker_image:
 openssl:
 - '3.5'
 target_platform:
-- linux-64
+- linux-aarch64
